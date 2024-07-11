@@ -1,6 +1,6 @@
 ### 웹디자인기능사 기출문제A
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/fa97d740-13f6-4ddc-9939-b86bb2c976d6/37d62409-3df2-438e-a310-d8537dc46126/Untitled.png)
+![깃헙](https://github.com/user-attachments/assets/cb56f9aa-e9e2-4689-97c8-7ec7598b59cb)
 
 ---
 
