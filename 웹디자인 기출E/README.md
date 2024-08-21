@@ -1,6 +1,6 @@
 ### 웹디자인기능사 기출문제E
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/fa97d740-13f6-4ddc-9939-b86bb2c976d6/a4bfaf8c-e522-466e-b0a1-dda961638c75/image.png)
+![image](https://github.com/user-attachments/assets/17056dcc-5829-43f7-90c6-ced928c85ebe)
 
 ---
 
